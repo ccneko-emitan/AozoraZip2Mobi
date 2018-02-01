@@ -16,20 +16,22 @@ Windows10以降で動作確認済
 
 使い方
 ------------
-一、AozoraEpub3をインストールする
+一、AozoraEpub3をインストールする。
 　https://www18.atwiki.jp/hmdev/
 
-二、kindlegenをダウンロードして、AozoraEpub3のインストールパスにコピーする
+二、kindlegenをダウンロードして、AozoraEpub3のインストールパスにコピーする。
 　https://www.amazon.com/gp/feature.html?docId=1000765211
 
-三、変換したい青空文庫のzipファイルをダウンロードしてください。
+三、AozoraZip2Mobi.jarをダウンロードして、AozoraEpub3のインストールパスにコピーする。
+
+四、変換したい青空文庫のzipファイルをダウンロードしてください。
 + 方法一：http://www.aozora.gr.jp　から直接ダウンロード
 + 方法二：https://github.com/aozorabunko/aozorabunko/tree/master/cards　から直接ダウンロード
 + 方法三：https://github.com/aozorabunko/aozorabunko/tree/master/cards　からSVNでダウンロード
 
 　checkoutのURLは「tree/master」を「trunk」に変換するURL：例：https://github.com/aozorabunko/aozorabunko/trunk/cards
 
-四、コマンドラインからの実行
+五、コマンドラインからの実行
 cd AozoraEpub3のインストールパス
 
 java -jar AozoraZip2Mobi.jar 入力フォルダパス  出力先パス 
