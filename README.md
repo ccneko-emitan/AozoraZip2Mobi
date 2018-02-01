@@ -17,6 +17,9 @@ Windows10以降で動作確認済
 使い方
 ------------
 一、AozoraEpub3をインストールする。
+
+「縦書き」に設定できる
+
 　https://www18.atwiki.jp/hmdev/
 
 二、kindlegenをダウンロードして、AozoraEpub3のインストールパスにコピーする。
