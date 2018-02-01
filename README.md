@@ -36,9 +36,9 @@ java -jar AozoraZip2Mobi.jar 入力フォルダパス  出力先パス
 
 入力フォルダパス：zipファイルのフォルダ構成は「https://github.com/aozorabunko/aozorabunko」のcardsフォルダを参考してください。
 
-    入力フォルダパスは「cards」のパス（cardsが含まれない）
+入力フォルダパスは「cards」のパス（cardsが含まれない）
 
-    例：入力フォルダパスは「c:\input」の場合、入力フォルダのフォルダ構成は以下のように：
+例：入力フォルダパスは「c:\input」の場合、入力フォルダのフォルダ構成は以下のように：
     
 <pre>
     input
