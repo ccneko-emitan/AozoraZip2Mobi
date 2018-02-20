@@ -37,7 +37,11 @@ Windows10（win7以上应该就没问题）
 五、命令执行
 cd AozoraEpub3的安装路径
 
-java -jar AozoraZip2Mobi.jar 输入路径（cards所在路径，不包括cards） 输出路径 
+java -jar AozoraZip2Mobi.jar [-options]
+
+-c -cards 入力フォルダのパス（「cards」のパス）
+-b -books 出力先パスのパス（「books」のパス）
+-t -convertType 変換タイプ（1:zip->epub, 2:zip->epub->mobi, 3:epub->mobi）
 
 输入路径：zip文件所在文件夹的构成请参照「https://github.com/aozorabunko/aozorabunko」中cards文件夹下的构成。
 
