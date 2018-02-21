@@ -35,6 +35,7 @@ Windows10以降で動作確認済
 　checkoutのURLは「tree/master」を「trunk」に変換するURL：例：https://github.com/aozorabunko/aozorabunko/trunk/cards
 
 五、コマンドラインからの実行
+
 cd AozoraEpub3のインストールパス
 
 java -jar AozoraZip2Mobi.jar [-options]
@@ -48,7 +49,7 @@ java -jar AozoraZip2Mobi.jar [-options]
 入力フォルダパスは「cards」のパス（cardsが含まれない）
 
 例：入力フォルダパスは「c:\input」の場合、入力フォルダのフォルダ構成は以下のように：
-    
+​    
 <pre>
     input
       |-cards
